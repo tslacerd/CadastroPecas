@@ -36,3 +36,4 @@ if (nomePeca.length > 3) {
 } else {
     console.log("O nome da peça é inválido, o nome deve ter mais de 3 caracteres.")
 }
+//Entrega atividade 1  
